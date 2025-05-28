@@ -6,8 +6,8 @@
 // @version     1.7
 // @author      TSLETSGO
 // @run-at      document-body
-// @downloadURL https://github.com/TSLETSGO/YOUR_REPO_NAME/raw/master/slidein-darkmode-toggle.user.js
-// @updateURL https://github.com/TSLETSGO/Browser-userscripts/raw/master/slidein-darkmode-toggle.user.js
+// @downloadURL https://github.com/TSLETSGO/Browser-userscripts/raw/refs/heads/main/slidein-darkmode-toggle.user.js
+// @updateURL https://github.com/TSLETSGO/Browser-userscripts/raw/refs/heads/main/slidein-darkmode-toggle.user.js
 // ==/UserScript==
 
 // Persistent preference
