@@ -13,7 +13,7 @@
 // Persistent preference
 let isDarkMode = localStorage.getItem('darkmode-toggle') === 'true';
 
-// -- Original logic preserved
+// MutationObserver config: observe subtree, child nodes, and 'style'/'class' attribute changes.
 const observerConfig = { subtree: true, childList: true, attributes: true, attributeFilter: ['style', 'class'] };
 const isLight = elem => {
   let m = getComputedStyle(elem, null).getPropertyValue('background-color')?.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\)/);
