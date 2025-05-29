@@ -3,9 +3,9 @@
 // @namespace   https://github.com/TSLETSGO/Browser-userscripts
 // @match       *://*/*
 // @grant       none
-// @version     1.7
+// @version     1.8
 // @author      TSLETSGO
-// @run-at      document-body
+// @run-at      document-start
 // @downloadURL https://github.com/TSLETSGO/Browser-userscripts/raw/refs/heads/main/slidein-darkmode-toggle.user.js
 // @updateURL https://github.com/TSLETSGO/Browser-userscripts/raw/refs/heads/main/slidein-darkmode-toggle.user.js
 // ==/UserScript==
